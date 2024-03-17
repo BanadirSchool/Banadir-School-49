@@ -16,24 +16,24 @@
                 
                     <td> WINDOW 10</td>
                    
-                    <td>Lama Hayo 
-                        <td> Z
+                    <td> 77 
+                        <td> C+
                         <td> COMPUTER</td>
                     </td>
            
             
                 <tr>
                     <td> MS- WORD </td>
-                    <td> Lama Hayo 
-                        <td>Z
+                    <td> 78 
+                        <td> C+
                     </td>
                     <td> COMPUTER
                     </td>
           
                 <tr>   
                     <td> M-S EXCEL </td>
-                    <td>Lama Hayo 
-                        <td> Z
+                    <td> 80
+                        <td> B
                     </td>
                     <td> COMPUTER
                     </td>
@@ -41,15 +41,15 @@
                
                 <tr>
                         <td>M-S POWER POINT </td>
-                        <td>Lama Hayo </td>
-                        <td> Z
+                        <td>100 </td>
+                        <td> A+
                         <td> COMPUTER
                         </td>
                
                     <tr>
                         <td> SECURITY</td>
-                        <td>Lama Hayo </td>
-                        <td> Z
+                        <td>70 </td>
+                        <td> C
                         <td> COMPUTER
                         </td>
                    
